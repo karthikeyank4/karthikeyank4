@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I am a Senior Test Engineer at Qualitrix, working 
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/karthikeyan)
+- [LinkedIn](https://www.linkedin.com/in/karthikeyankofficial)
 - [Email](mailto:karthikeyankumaran4@example.com)
 - [GitHub](https://www.github.com/karthikeyank4)
 
