@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I am a Senior Test Engineer at Qualitrix, working 
 - Conducting bug reporting and meticulous test planning.
 - Designed more than 1000+ test cases and 500+ test cases for backend. 
 - Led the project single-handedly.
-- Worked on more than 60+ builds and reported 350+ bugs. 
-- 280+ bugs got fixed, resulting in a stable build. 
+- Worked on more than 60+ builds and reported 450+ bugs. 
+- 380+ bugs got fixed, resulting in a stable build. 
 - Conducted API testing using Postman tool.
 - Conducted database testing using Beekeeper studio with PostgreSQL and Cassandra.
 - Worked on AWS S3 bucket for checking the master data of the users and bikes.
