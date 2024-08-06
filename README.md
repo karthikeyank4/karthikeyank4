@@ -4,44 +4,39 @@ Welcome to my GitHub profile! I am a Senior Test Engineer at Qualitrix, working 
 
 ## 🔧 Technologies & Skills:
 
--QA Manager at Emotorad
+# 🧑‍💼 QA Manager at Emotorad
 
-Methodology:
+## 📜 Methodology
+**Agile (Scrum)**
 
-    Agile (Scrum)
+## ✅ Functional Testing
+- **Test Planning, Test Case Creation, Test Execution, and Bug Reporting** (Jira)
+- **Web Automation:** Selenium & Cucumber BDD
+- **Mobile Automation:** Appium
 
-Functional Testing:
+## ⚙️ Non-Functional Testing
+- **Performance and Load Testing:** Apache JMeter
 
-    Test planning, test case creation, test execution, and bug reporting (Jira)
-    Web automation (Selenium) & Cucumber BDD
-    Mobile automation (Appium)
+## 🛠️ Tools
+- **Test Management:** Testrail, Excel Sheets
+- **Project Management:** Jira, Kanban Board
+- **Backend:** API Testing (Postman)
+- **Database:** PostgreSQL, Cassandra (Beekeeper Studio)
+- **Cloud:** AWS S3
 
-Non-Functional Testing:
+## 💻 Programming Languages
+- **Java**
+- **Python**
 
-    Performance and load testing (Apache JMeter)
+## 🚀 In-Progress Skills
+- **Web Automation:** Playwright
+- **Mobile Automation:** Appium
+- **Cloud:** Azure
+- **Security Testing**
+- **DevOps**
+- **Docker**
+- **Kubernetes**
 
-Tools:
-
-    Test management: Testrail, Excel sheets
-    Project management: Jira, Kanban board
-    Backend: API testing (Postman)
-    Database: PostgreSQL, Cassandra (Beekeeper Studio)
-    Cloud: AWS S3
-
-Programming Languages:
-
-    Java
-    Python
-
-In-Progress Skills:
-
-    Web automation (Playwright)
-    Mobile automation (Appium)
-    Cloud (Azure)
-    Security Testing
-    DevOps
-    Docker
-    Kubernetes
 
 
 
