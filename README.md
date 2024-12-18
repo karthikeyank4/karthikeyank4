@@ -50,6 +50,13 @@ Welcome to my GitHub profile! I’m a **Senior Test Engineer** at **Qualitrix**,
 - **Reported:** 53 critical bugs, ensuring timely resolution.  
 - **Backend API testing:** Conducted via Postman for seamless backend functionality.  
 
+**TeeTime and FanFix Projects**
+
+Led a team of 2 members and conducted daily stand-up calls.
+Designed test plans and ensured their successful execution.
+Provided weekly updates to the client’s higher management.
+
+
 ### Associate Quality Service Engineer | Amazon  
 *(March 2020 – September 2023)*  
 
