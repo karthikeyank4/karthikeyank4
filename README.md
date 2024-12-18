@@ -1,63 +1,64 @@
-Hi there! 👋
-Welcome to my GitHub profile! I am a Senior Test Engineer at Qualitrix, working on exciting projects for our client Emotorad and other innovative platforms like Tagmango.
+👋 Hi there!
+Welcome to my GitHub profile! I’m a Senior Test Engineer at Qualitrix, passionate about delivering high-quality software solutions. With hands-on experience in functional and non-functional testing, I strive to ensure seamless user experiences for web and mobile applications.
 
-🔧 Technologies & Skills:
-🧑‍💼 Senior Test engineer at Qualitrix Technology
-📜 Methodology
-Agile (Scrum)
-
+🔥 Technologies & Skills
+📜 Methodologies
+Agile (Scrum Framework)
 ✅ Functional Testing
-Test Planning, Test Case Creation, Test Execution, and Bug Reporting (Jira)
+Test Planning | Test Case Creation | Test Execution | Bug Reporting (Jira)
 Web Automation: Selenium & Cucumber BDD
 Mobile Automation: Appium
 ⚙️ Non-Functional Testing
 Performance and Load Testing: Apache JMeter
-🛠️ Tools
+🛠️ Tools & Platforms
 Test Management: Testrail, Excel Sheets
-Project Management: Jira,  Trello ,Kanban Board
-Backend: API Testing (Postman)
+Project Management: Jira, Kanban Board
+API Testing: Postman
 Database: PostgreSQL, Cassandra (Beekeeper Studio)
 Cloud: AWS S3
 💻 Programming Languages
-Java
-Python
-🚀 In-Progress Skills
+Java | Python
+🚀 In Progress
 Web Automation: Playwright
-Mobile Automation: Appium
 Cloud: Azure
+Mobile Automation: Appium
 Security Testing
-DevOps
-Docker
-Kubernetes
-📈 Experiences:
-Senior Test Engineer at Qualitrix Technology
-December 2023 - Present
+DevOps: Docker, Kubernetes
+📈 Experience
+Senior Test Engineer | Qualitrix Technology
+(December 2023 – Present)
 
-Emotorad Project
-Designed comprehensive test cases and performed test validation.
-Conducted test planning and bug reporting.
-Designed 1000+ test cases and 500+ backend test cases.
-Validated over 60+ builds and reported 450+ bugs.
-380+ bugs got fixed, resulting in a stable build.
-Conducted API testing using Postman.
-Conducted database testing with Beekeeper Studio (PostgreSQL and Cassandra).
-Validated AWS S3 bucket data for user and bike details.
-Tagmango Project
-Tested both the web application and mobile application for this online creator platform.
-Executed 600+ test cases across mobile and web platforms.
-Raised 53 bugs, collaborating with developers for timely resolution.
-Conducted backend API testing using Postman.
-Associate Quality Service Engineer at Amazon
-March 2020 - September 2023
+1️⃣ Emotorad Project
+🚴 Revolutionizing the e-bike experience with rigorous QA efforts.
 
-Enhanced quality assurance processes for various Amazon services.
-Tested more than 15+ smart TVs and 10+ stick devices.
-Executed more than 15,000+ test cases.
-Led a team of 15 members for over a year and worked across 3 platforms.
-Developed expertise in Bluetooth devices and satellite channel testing.
-Triggered automation runs for sanity and regression testing.
-📫 Let's Connect!
-LinkedIn
-Email
-GitHub
-Feel free to check out my repositories and get in touch!
+Designed & executed: 1000+ test cases for frontend & 500+ for backend.
+Bug hunting: Reported 450+ bugs, with 380+ successfully fixed.
+API testing: Validated backend using Postman.
+Database validation: PostgreSQL & Cassandra via Beekeeper Studio.
+Cloud expertise: Validated AWS S3 bucket data.
+Ensured 60+ stable builds with comprehensive regression testing.
+2️⃣ Tagmango Project
+🌟 Empowering creators with robust testing of their platform.
+
+Tested: Web & mobile applications with over 600+ test cases executed.
+Reported: 53 critical bugs, ensuring timely resolution.
+Backend API testing: Conducted via Postman for seamless backend functionality.
+Associate Quality Service Engineer | Amazon
+(March 2020 – September 2023)
+
+Tested: 15+ Smart TVs & 10+ stick devices.
+Executed: Over 15,000+ test cases across multiple platforms.
+Led: A team of 15 members, completing 100+ builds.
+Specialized in satellite channels, Bluetooth devices, and antenna testing.
+Automated regression and sanity testing workflows.
+🏆 Key Achievements
+Awarded "Pat on the Back" at Qualitrix for outstanding contributions.
+Successfully led QA efforts single-handedly for multiple high-impact projects.
+Recognized for meticulous test planning and execution at Amazon.
+📫 Let’s Connect!
+LinkedIn: Connect with me
+Email: Drop me a message
+GitHub: Check my repos
+
+
+
