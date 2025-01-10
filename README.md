@@ -49,6 +49,11 @@ Welcome to my GitHub profile! I’m a **Senior Test Engineer** at **Qualitrix**,
 - **Tested:** Web & mobile applications with over **600+ test cases** executed.  
 - **Reported:** 53 critical bugs, ensuring timely resolution.  
 - **Backend API testing:** Conducted via Postman for seamless backend functionality.  
+**Protean Project**
+
+    Single contributor for BUDS API Testing: Designed 300+ test cases and reported 100+ bugs.
+    E-commerce platform (Seller & Buyer): Worked on test case design and execution.
+    Regression automation preparation: Prepared reports for automating regression test cases.
 
 **TeeTime and FanFix Projects**
 
