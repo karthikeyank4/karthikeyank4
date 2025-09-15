@@ -103,7 +103,7 @@ Worked across multiple domains: EV, EdTech, Creator Platforms
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyankofficial)  
 - [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://www.github.com/karthikeyank4)  
-- ✉️ Email: [karthikeyankumaran4@example.com](mailto:karthikeyankumaran4@gmail.com)  
+- ✉️ Email: [karthikeyankumaran4@gmail.com](mailto:karthikeyankumaran4@gmail.com)  
 
 ---
 
