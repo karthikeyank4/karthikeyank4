@@ -25,12 +25,13 @@ Welcome to my GitHub! I’m a **Senior QA Engineer & QA Lead** with a strong pas
 - ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
 - ![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-1BA3E2?style=flat&logo=katalon&logoColor=white)
 
-| Tool/Concept           | Badge                                                                                                                    |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **n8n**                | ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat\&logo=n8n\&logoColor=white)                                    |
-| **Make.com**           | ![Make.com](https://img.shields.io/badge/Make.com-2C2D72?style=flat\&logo=make\&logoColor=white)                         |
-| **LLM Models**         | ![LLM Models](https://img.shields.io/badge/LLM%20Models-000000?style=flat\&logo=ai\&logoColor=white)                     |
-| **Prompt Engineering** | ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat\&logo=openai\&logoColor=white) |
+## 🤖 AI Agents & LLMs  
+
+1. ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat&logo=n8n&logoColor=white)  
+2. ![Make.com](https://img.shields.io/badge/Make.com-2C2D72?style=flat&logo=make&logoColor=white)  
+3. ![LLM Models](https://img.shields.io/badge/LLM%20Models-000000?style=flat&logo=ai&logoColor=white)  
+4. ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=openai&logoColor=white)  
+
 
 
 
