@@ -17,6 +17,7 @@ Welcome to my GitHub! I’m a **Senior QA Engineer & QA Lead** with a strong pas
 ### ✅ QA & Test Automation
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 - ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 - ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat&logo=testng&logoColor=white)
