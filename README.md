@@ -23,25 +23,33 @@ Welcome to my GitHub! I’m a **Senior QA Engineer & QA Lead** with a strong pas
 - ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat&logo=testng&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 - ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+- ![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-1BA3E2?style=flat&logo=katalon&logoColor=white)
+
+| Tool/Concept           | Badge                                                                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **n8n**                | ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat\&logo=n8n\&logoColor=white)                                    |
+| **Make.com**           | ![Make.com](https://img.shields.io/badge/Make.com-2C2D72?style=flat\&logo=make\&logoColor=white)                         |
+| **LLM Models**         | ![LLM Models](https://img.shields.io/badge/LLM%20Models-000000?style=flat\&logo=ai\&logoColor=white)                     |
+| **Prompt Engineering** | ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat\&logo=openai\&logoColor=white) |
+
+
+
 
 ### ☁️ Cloud, DevOps & Security
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+- ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0047AB?style=flat&logo=owasp&logoColor=white)
 - ![BurpSuite](https://img.shields.io/badge/BurpSuite-ff6600?style=flat&logo=burpsuite&logoColor=white)
-- OWASP ZAP
+  
 
 ### 🗄️ Databases
 - PostgreSQL | MySQL | Cassandra
 
 ### 🧠 Currently Learning
-- Playwright with Python (Web Automation)
 - CI/CD: Jenkins, Docker, Kubernetes
-- AWS Solutions, Terraform
+- Terraform
 - Security Testing (Advanced)
-- AI Agents, Prompt Engineering, Vector DBs
+- AI Agents, Vector DBs
 
 ---
 
