@@ -57,15 +57,15 @@ About Me
 
 ---
 
-💼 Current Role – Engineering Lead Quality
-🏢 GSM & AI Supplier (Supply Chain)
+💼 **Current Role – Engineering Lead Quality**
 
-Client: Ashley Furniture Industries (Onsite)
+
+**Client**: Ashley Furniture Industries (Onsite)
 
 🎯 Project Overview
 Leading QA for Supply Chain Management systems, covering both legacy GSM enhancements and AI-driven migration platform.
 
-📋 Key Contributions
+📋 **Key Contributions**
 
 Led end-to-end QA strategy for GSM (legacy) and AI Supplier migration
 Validated 150+ UI screens with UI, Regression & Integration Testing
