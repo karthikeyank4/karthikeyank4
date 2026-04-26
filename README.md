@@ -1,14 +1,17 @@
 # 👋 Hi there, I'm Karthikeyan!  
 
-Welcome to my GitHub! I’m a **Senior QA Engineer & QA Lead** with a strong passion for building quality-first software and upskilling in **DevOps, Cloud, Security, and AI**.
+Engineering Lead – Quality | QA Architect | Automation & AI-Driven Testing Enthusiast
+
+Welcome to my GitHub! I specialize in building quality-first, scalable systems with strong expertise in Automation, Cloud, Security, and AI-driven QA.
 
 ---
 
-## 🔍 About Me
+About Me
 
-💼 Currently working as a **Senior Software Test Engineer (QA Lead)** at **Colan Infotech** (since March 2025), leading the QA effort for a custom-built ERP project.  
-🧪 Expertise in **Functional**, **Non-Functional**, **Security**, **Cloud**, **Database**, and **Automation Testing**.  
-🚀 Transitioning toward **DevOps, Cloud Engineering**, and **AI agent development**, while continuing to strengthen test automation capabilities.
+💼 Currently working as Engineering Lead – Quality, driving QA strategy for enterprise and supply chain systems
+🧪 5+ years of experience in Manual, Automation, API, Performance, Security, and Database Testing
+🤖 Actively working on AI-driven QA (GenAI, Agentic AI, MCP, Automation Agents)
+🚀 Passionate about DevOps, Cloud Engineering, and Intelligent Test Automation
 
 ---
 
@@ -54,7 +57,25 @@ Welcome to my GitHub! I’m a **Senior QA Engineer & QA Lead** with a strong pas
 
 ---
 
-## 💼 Current Role – QA Lead @ Colan Infotech  
+💼 Current Role – Engineering Lead Quality
+🏢 GSM & AI Supplier (Supply Chain)
+
+Client: Ashley Furniture Industries (Onsite)
+
+🎯 Project Overview
+Leading QA for Supply Chain Management systems, covering both legacy GSM enhancements and AI-driven migration platform.
+
+📋 Key Contributions
+
+Led end-to-end QA strategy for GSM (legacy) and AI Supplier migration
+Validated 150+ UI screens with UI, Regression & Integration Testing
+Built UI Automation framework from scratch using Playwright (Python + Pytest)
+Ensured smooth migration from legacy to AI platform with high functional accuracy
+Owned test planning, execution, defect lifecycle, and release quality
+Collaborated with cross-functional teams in Agile–Scrum environment
+Delivered stable, scalable, and high-quality supply chain workflows
+
+## 💼 Previous Role – QA Lead @ Colan Infotech  
 📍 **Since March 2025**
 
 🎯 **Project**: ERP (Sales, Finance, Estimation, Procurement, HRMS, IT Admin, Security, Production)  
