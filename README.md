@@ -13,7 +13,7 @@ About Me
 🤖 Actively working on AI-driven QA (GenAI, Agentic AI, MCP, Automation Agents)
 🚀 Passionate about DevOps, Cloud Engineering, and Intelligent Test Automation
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -87,7 +87,6 @@ Delivered stable, scalable, and high-quality supply chain workflows
 - Led and mentored a team of QA engineers in Agile (Scrum) framework  
 - Delivered stable builds and regression coverage with high defect resolution rate
 
----
 
 ## 🧾 Past Experience (Highlights)
 
