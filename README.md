@@ -4,7 +4,7 @@ Engineering Lead – Quality | QA Architect | Automation & AI-Driven Testing Ent
 
 Welcome to my GitHub! I specialize in building quality-first, scalable systems with strong expertise in Automation, Cloud, Security, and AI-driven QA.
 
----
+
 
 About Me
 
